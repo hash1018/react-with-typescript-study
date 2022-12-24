@@ -38,11 +38,12 @@ const AppContainer = () => {
         });
         setTodoList(newTodoList);
     };
-
+/*
     return <App todoList = {todoList} 
     addTodo = {addTodo} 
     deleteTodo = {deleteTodo}
     toggleDone = {toggleDone} />
+    */
 };
 
 export default AppContainer;
